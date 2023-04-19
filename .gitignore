@@ -1,5 +1,5 @@
 # Data
-FlightData/
+data/
 
 # Other standard files to ignore
 *.bundle.*
